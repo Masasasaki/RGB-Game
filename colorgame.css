@@ -61,6 +61,7 @@ button {
     color: black;
     letter-spacing: 1px;
     font-size: inherit;
+    font-family: 'Press Start 2P', cursive;
     transition: all 0.3s;
     --webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
